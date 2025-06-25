@@ -8,25 +8,66 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_controle_samsung.png",
+          "link": "/controle-remoto-ar-condicionado-samsung-db93-13553a-original"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/banner_bomba_vacuo.png",
+          "link": "/bomba-de-vacuo-12cfm-duplo-estagio-340l-min-1hp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_helice_springer_2.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_compressor_tecumseh_7500.png",
+          "link": "/compressor-rotativo-tecumseh-rg131-ar-002-ar-condicionado-r-22-7500-btus-110v-semi-novo-c-garantia"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_motor_ventilador_springer_duo_7k.png",
+          "link": "/motor-ventilador-ar-condicionado-janela-1-20-127v-duo-7k-springer-gw25906135"
         }
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/box-mosaico-01.png"
+        },
+        {
+          "img": "/img/uploads/box-mosaico-05.png"
+        },
+        {
+          "img": "/img/uploads/box-mosaico-04_2.png"
+        },
+        {
+          "img": "/img/uploads/gif_liquida.gif"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/box-mosaico-06.png"
+        },
+        {
+          "img": "/img/uploads/box-mosaico-03_2.png"
+        },
+        {
+          "img": "/img/uploads/box-mosaico-02_2_2.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -37,11 +78,6 @@
       "headless": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
