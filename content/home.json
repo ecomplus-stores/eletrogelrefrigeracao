@@ -42,16 +42,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/box-mosaico-01.png"
-        },
-        {
           "img": "/img/uploads/box-mosaico-05.png"
         },
         {
           "img": "/img/uploads/box-mosaico-04_2.png"
-        },
-        {
-          "img": "/img/uploads/gif_liquida.gif"
         }
       ]
     },
