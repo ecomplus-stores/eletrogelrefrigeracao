@@ -2,54 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/2367</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/1167</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/6727</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/7570</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/8106</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/7118</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/1334</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/1023</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://eletrogelrefrigeracao.netlify.app/motor-ventilador-ar-condicionado-janela-springer-13-silentia-zca-30k-220v-gw25906002</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1568,6 +1520,54 @@
     </url>
   
     <url>
+      <loc>https://eletrogelrefrigeracao.netlify.app/2367</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://eletrogelrefrigeracao.netlify.app/1167</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://eletrogelrefrigeracao.netlify.app/6727</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://eletrogelrefrigeracao.netlify.app/7570</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://eletrogelrefrigeracao.netlify.app/8106</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://eletrogelrefrigeracao.netlify.app/7118</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://eletrogelrefrigeracao.netlify.app/1334</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://eletrogelrefrigeracao.netlify.app/1023</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://eletrogelrefrigeracao.netlify.app/springer</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1682,13 +1682,13 @@
     </url>
   
     <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/pages/privacidade</loc>
+      <loc>https://eletrogelrefrigeracao.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/pages/pagamentos</loc>
+      <loc>https://eletrogelrefrigeracao.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1724,21 +1724,27 @@
     </url>
   
     <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://eletrogelrefrigeracao.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
     </url>
   
     <url>
+      <loc>https://eletrogelrefrigeracao.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://eletrogelrefrigeracao.netlify.app/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://eletrogelrefrigeracao.netlify.app/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
     <url>
@@ -1751,12 +1757,6 @@
       <loc>https://eletrogelrefrigeracao.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://eletrogelrefrigeracao.netlify.app/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
