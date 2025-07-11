@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.efb0fc90a1efa65d75f6a2ce0df53327.gif",
+      "sizes": "512x512",
+      "type": "image/gif"
+    },
+    {
+      "src": "/icon_384x384.efb0fc90a1efa65d75f6a2ce0df53327.gif",
+      "sizes": "384x384",
+      "type": "image/gif"
+    },
+    {
+      "src": "/icon_192x192.efb0fc90a1efa65d75f6a2ce0df53327.gif",
+      "sizes": "192x192",
+      "type": "image/gif"
+    },
+    {
+      "src": "/icon_128x128.efb0fc90a1efa65d75f6a2ce0df53327.gif",
+      "sizes": "128x128",
+      "type": "image/gif"
+    },
+    {
+      "src": "/icon_96x96.efb0fc90a1efa65d75f6a2ce0df53327.gif",
+      "sizes": "96x96",
+      "type": "image/gif"
+    }
+  ],
+  "name": "Eletrogel",
+  "short_name": "Eletrogel",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Eletrogel é uma empresa que atua no mercado de refrigeração há mais de 45 anos, buscando sempre a solução perfeita para nossos clientes.\n\nSomos uma assistência técnica autorizada de dezenas de marcas no ramo da climatização e refrigeração, dentre essas podemos destacar as principais marcas com qual nos orgulhamos de fazer parte do corpo de prestadores de serviços, Springer, Midea, Carrier, Elgin, Komeco, Comfee, Gree, Fontaine, Philco, Rheem, Delonghi, York, Fricon, Fujitsu e Agratto",
+  "background_color": "#ffffff",
+  "theme_color": "#cc0000"
+}
